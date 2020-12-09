@@ -25,3 +25,11 @@
 - 要注意将virtualBox->系统->启动顺序->硬盘（否则会导致操作系统无限重启）
 
 </details>
+<details>
+<summary>2020.12.9：设计模式</summary>
+  前两个月一直在忙项目、工作一些杂事继续打卡
+
+- [x] commend code
+- [x] Double-ended queue 双端队列
+https://en.wikipedia.org/wiki/Double-ended_queue
+</details>
