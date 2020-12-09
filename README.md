@@ -34,7 +34,11 @@ https://en.wikipedia.org/wiki/Double-ended_queue
 
 <details>
 <summary>2020.12.10：umlstar，Latex</summary>
+  
 - 天问之路，知识星球更新。
+  
 - 用starUML类图、用例图，这套标准不同的书里写的都不太一样，需要找一些较为权威的参考资料。
+
 - latex使用
+
 </details>
