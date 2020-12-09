@@ -23,17 +23,18 @@
 
 - [x] 键盘和环境一起炸了，重新再来一次
 - 要注意将virtualBox->系统->启动顺序->硬盘（否则会导致操作系统无限重启）
-
 </details>
+
 <details>
 <summary>2020.12.9：设计模式</summary>
   前两个月一直在忙项目、工作一些杂事继续打卡
-
 - [x] commend code
 https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command
 - [x] Double-ended queue 双端队列
 https://en.wikipedia.org/wiki/Double-ended_queue
 </details>
+
+<details>
 <summary>2020.12.10：umlstar，Latex</summary>
 - 天问之路，知识星球更新。
 - 用starUML类图、用例图，这套标准不同的书里写的都不太一样，需要找一些较为权威的参考资料。
