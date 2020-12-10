@@ -38,5 +38,5 @@
 - 用starUML类图、用例图，这套标准不同的书里写的都不太一样，需要找一些较为权威的参考资料。
 
 - latex使用
-- [x][软件体系结构参考资料](https://mubu.com/doc/explore/26560#o-2c416ee032c09d08c）
+- [x] [软件体系结构参考资料] (https://mubu.com/doc/explore/26560#o-2c416ee032c09d08c）
 </details>
