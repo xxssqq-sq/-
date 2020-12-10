@@ -24,7 +24,7 @@
 <details>
 <summary>2020.12.9：设计模式</summary>
   
-- [x] [commend code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
+- [x] [command code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
   
 - [x] Double-ended queue [双端队列](https://en.wikipedia.org/wiki/Double-ended_queue)
 
