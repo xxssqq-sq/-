@@ -45,7 +45,7 @@
   
 <summary>2020.12.11：OS配置调试</summary>
 
-- 配置CSAPP OSLAB win64包
+- [x] [配置CSAPP OSLAB win64包](https://github.com/xxssqq-sq/October_os/blob/main/csapp%20lab/CSAPP%20OSLAB%20win64集成开发一键包-晓羽.md)
 
 - 
 
