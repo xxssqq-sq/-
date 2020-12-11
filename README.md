@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>2020.12.9：设计模式</summary>
+<summary>2020.12.09：设计模式</summary>
   
 - [x] [command code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
   
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>2020.12.10：umlstar，Latex</summary>
+<summary>2020.12.10：软件体系结构</summary>
   
 - [x] 天问之路，知识星球更新。
   
