@@ -40,3 +40,13 @@
 - latex使用
 - [x] [软件体系结构](https://mubu.com/doc/explore/26560#o-2c416ee032c09d08c)
 </details>
+
+<details>
+  
+<summary>2020.12.11：OS配置调试</summary>
+
+- 配置CSAPP OSLAB win64包
+
+- 
+
+</details>
