@@ -79,3 +79,23 @@
 感谢各位带给我的新世界。
 
 </details>
+
+<details>
+  
+<summary>待办</summary>
+
+- 操作系统真相还原
+
+- csapp环境调试
+
+- os笔记
+
+- afl学习
+
+- llvm中的设计模式
+
+- stl
+
+- uml学习
+
+</details>
