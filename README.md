@@ -82,7 +82,7 @@
 
 <details>
   
-<summary>2020.12.15：stl</summary>
+<summary>2020.12.15：stl中的设计模式</summary>
 
 - [x] [stl与设计模式](https://github.com/xxssqq-sq/learn_list/blob/main/笔记/设计模式与stl.md)
 
