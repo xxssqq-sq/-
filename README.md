@@ -82,6 +82,14 @@
 
 <details>
   
+<summary>2020.12.15：stl</summary>
+
+- [x] [stl与设计模式](https://github.com/xxssqq-sq/learn_list/blob/main/笔记/设计模式与stl.md)
+
+</details>
+
+<details>
+  
 <summary>待办</summary>
 
 - 操作系统真相还原
