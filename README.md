@@ -90,6 +90,14 @@
 
 <details>
   
+<summary>2020.12.16：深入理解计算机系统-双语p1-3</summary>
+
+- [x] [中英双语 深入理解计算机系统 3rd Computer Systems: A Programmer's Perspective](https://www.bilibili.com/video/BV19v41167nr?p=3)
+
+</details>
+
+<details>
+  
 <summary>待办</summary>
 
 - 操作系统真相还原
