@@ -115,11 +115,19 @@
 
 <details>
   
-<summary>2020.12.21：spring、C++</summary>
+<summary>2020.12.22：spring、C++</summary>
 
 - [x] 学习如何阅读技术文档。
 
 - [x] spring hello
+
+</details>
+
+<details>
+  
+<summary>2020.12.24：uml</summary>
+
+- [x] 整理uml知识点
 
 </details>
 
