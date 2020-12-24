@@ -96,6 +96,8 @@
 
 </details>
 
+<details>
+
 <summary>2020.12.19：设计模式</summary>
   
 - [x] [command code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
