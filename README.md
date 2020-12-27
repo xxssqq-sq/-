@@ -23,7 +23,7 @@
 
 <details>
 <summary>2020.12.09：设计模式</summary>
-  
+
 - [x] [command code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
   
 - [x] Double-ended queue [双端队列](https://en.wikipedia.org/wiki/Double-ended_queue)
@@ -32,7 +32,7 @@
 
 <details>
 <summary>2020.12.10：软件体系结构</summary>
-  
+
 - [x] 天问之路，知识星球更新。
   
 - 用starUML类图、用例图，这套标准不同的书里写的都不太一样，需要找一些较为权威的参考资料。
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.11：OS配置调试</summary>
 
 - [x] [配置CSAPP OSLAB win64包](https://github.com/xxssqq-sq/October_os/blob/main/csapp%20lab/CSAPP%20OSLAB%20win64集成开发一键包-晓羽.md)
@@ -52,13 +52,13 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.12：撸猫</summary>
 
 </details>
 
 <details>
-  
+
 <summary>2020.12.13：深入理解计算机系统-存储器层次结构</summary>
 
 - 深入理解计算机系统第六章，存储器层次结构
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.14：LLVM,AFL</summary>
 
 - llvm基础知识
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.15：stl中的设计模式</summary>
 
 - [x] [stl与设计模式](https://github.com/xxssqq-sq/learn_list/blob/main/笔记/设计模式与stl.md)
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.16：深入理解计算机系统-双语p1-3</summary>
 
 - [x] [中英双语 深入理解计算机系统 3rd Computer Systems: A Programmer's Perspective](https://www.bilibili.com/video/BV19v41167nr?p=3)
@@ -99,7 +99,7 @@
 <details>
 
 <summary>2020.12.19：设计模式</summary>
-  
+
 - [x] [command code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/command)
   
 - [x] Double-ended queue [双端队列](https://en.wikipedia.org/wiki/Double-ended_queue)
@@ -108,7 +108,7 @@
 
 
 <details>
-  
+
 <summary>2020.12.21：侯捷 C++面向对象开发</summary>
 
 - [x] 
@@ -116,7 +116,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.22：spring、C++</summary>
 
 - [x] 学习如何阅读技术文档。
@@ -126,7 +126,7 @@
 </details>
 
 <details>
-  
+
 <summary>2020.12.24：uml</summary>
 
 - [x] 整理uml知识点
@@ -134,8 +134,18 @@
 </details>
 
 
+
 <details>
-  
+
+<summary>2020.12.27：休息</summary>
+
+- [x] 整理uml知识点
+
+</details>
+
+
+<details>
+
 <summary>待办</summary>
 
 - 操作系统真相还原
