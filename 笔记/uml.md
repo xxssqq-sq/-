@@ -301,3 +301,12 @@ d、辅助活动图
 e、典型案例
 
 ![img](img/L3Byb3h5L2h0dHBzL2ltZzIwMTguY25ibG9ncy5jb20vYmxvZy8xOTUwMTc2LzIwMjAwMi8xOTUwMTc2LTIwMjAwMjI4MTUzMjM3Mzg5LTEyNTA2NjI4MzgucG5n.jpg)
+
+### 组件图
+
+组件封装了细节，展示确定的结构。
+
+![image-20201227215443167](img/image-20201227215443167.png)
+
+![image-20201227215529218](img/image-20201227215529218.png)
+
