@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="afl"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test-instr0_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test-instr0_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_build">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_build"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test-instr_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test-instr_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-gotcpu">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-gotcpu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-gotcpu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-gotcpu/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-gotcpu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-gotcpu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-as">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-as" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-as"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-as/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-as" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-as/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-tmin">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-tmin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-tmin"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-tmin/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-tmin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-tmin/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="as_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 as_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-g++_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-g++_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-showmap">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-showmap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-showmap"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-showmap/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-showmap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-showmap/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-analyze">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-analyze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-analyze"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-analyze/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-analyze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-analyze/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-clang++_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-clang++_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_x86_runner">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_x86_runner"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test-instr1_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test-instr1_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-clang_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-clang_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-gcc">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-gcc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-gcc"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-gcc/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-gcc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-gcc/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_x86_generator">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_x86_generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-fuzz">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-fuzz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-fuzz"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="afl-fuzz/fast">
+				<Option output="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/afl-fuzz" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huahua/Documents/learn_list/AFL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_FORTIFY_SOURCE=2"/>
+					<Add option="-DAFL_PATH=&quot;/usr/local/lib/afl&quot;"/>
+					<Add option="-DDOC_PATH=&quot;/usr/local/share/doc/afl&quot;"/>
+					<Add option="-DBIN_PATH=&quot;/usr/local/bin&quot;"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 afl-fuzz/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/huahua/Documents/learn_list/AFL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-analyze.c">
+			<Option target="afl-analyze"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-as.c">
+			<Option target="afl-as"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-as.h">
+			<Option target="afl-as"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-fuzz.c">
+			<Option target="afl-fuzz"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-gcc.c">
+			<Option target="afl-gcc"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-gotcpu.c">
+			<Option target="afl-gotcpu"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-showmap.c">
+			<Option target="afl-showmap"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/afl-tmin.c">
+			<Option target="afl-tmin"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/alloc-inl.h">
+			<Option target="afl-gotcpu"/>
+			<Option target="afl-as"/>
+			<Option target="afl-tmin"/>
+			<Option target="afl-showmap"/>
+			<Option target="afl-analyze"/>
+			<Option target="afl-gcc"/>
+			<Option target="afl-fuzz"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/config.h">
+			<Option target="afl-gotcpu"/>
+			<Option target="afl-as"/>
+			<Option target="afl-tmin"/>
+			<Option target="afl-showmap"/>
+			<Option target="afl-analyze"/>
+			<Option target="afl-gcc"/>
+			<Option target="afl-fuzz"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/debug.h">
+			<Option target="afl-gotcpu"/>
+			<Option target="afl-as"/>
+			<Option target="afl-tmin"/>
+			<Option target="afl-showmap"/>
+			<Option target="afl-analyze"/>
+			<Option target="afl-gcc"/>
+			<Option target="afl-fuzz"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/types.h">
+			<Option target="afl-gotcpu"/>
+			<Option target="afl-as"/>
+			<Option target="afl-tmin"/>
+			<Option target="afl-showmap"/>
+			<Option target="afl-analyze"/>
+			<Option target="afl-gcc"/>
+			<Option target="afl-fuzz"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/cmake/options.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/cmake/packaging.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/huahua/Documents/learn_list/AFL/cmake/utils.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
